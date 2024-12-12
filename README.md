@@ -74,7 +74,7 @@ The YOLO-based model achieves:
 | Metric          | Value       |
 |------------------|-------------|
 | mAP (mean Average Precision) | 92%         |
-| Inference Speed | 20 FPS (SD) |
+| Inference Speed | 34 FPS (real-time) |
 | False Positives | <5%         |
 
 Sample detection outputs:
